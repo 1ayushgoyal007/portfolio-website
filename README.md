@@ -7,4 +7,4 @@ To use this Project locally Follow these Steps:
 
 there you go!!
 
-To see live click Here -->> https://laughing-meitner-d988bd.netlify.app/
+To see live click Here -->> https://ayushgoyal.netlify.app/
